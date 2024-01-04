@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Saifi</h1>
-<h3 align="center">A passionate student learning full stack web development from India</h3>
+<h3 align="center">A student from India</h3>
 
 - 📫 How to reach me **realanasaifi@gmail.com**
 
